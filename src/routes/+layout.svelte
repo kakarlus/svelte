@@ -8,7 +8,7 @@
 <Footer />
 
 <style lang="scss">
-  @import url("https://fonts.googleapis.com/css2?family=Voltaire&family=Fira+Sans+Condensed:wght@300&family=M+PLUS+Rounded+1c&display=swap&family=Roboto:wght@0,100;0,300;");
+  @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
   @import "../variables.scss";
 
   :global(body) {
