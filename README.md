@@ -1,6 +1,6 @@
-# react-coding-challenge
+# svelte-coding-challenge
 
-App is availabe for preview at https://react-coding-challenge-seven.vercel.app/
+App is availabe for preview at https://svelte-coding-challenge.vercel.app/
 
 This project was made with as little dependencies as possible.
 No prettier, linting, css frameworks
